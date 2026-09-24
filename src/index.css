@@ -53,3 +53,8 @@ h6 {
 .after:hover::after {
   width: 100%;
 }
+
+
+.cardShadow {
+	box-shadow: 10px 20px 10px 0 rgba(0, 0, 0, 0.02);
+} 
